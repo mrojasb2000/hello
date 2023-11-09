@@ -1,1 +1,1 @@
-let () = print_endline "Hello, Mavro!"
+let () = Printf.printf "%s!\n" "Hello, World"
